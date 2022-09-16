@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def addTwo(a,b):
+def add(a,b):
     return(a+b)
 
-print(addTwo(10, 20))
+print(add(10, 20))
